@@ -1,3 +1,5 @@
+📖 [Read Full Instructions](INSTRUCTIONS.md)
+
 # SPydeRR Robot 🕷️
 
 **SPydeRR** is an intelligent spider-themed quadruped robot built with a combination of Arduino (ESP8266) and Python. It features voice interaction, web search, jokes, weather updates, and physical movement — powered by servos and AI.
