@@ -1,3 +1,4 @@
+📘 [Click here for Full Instructions](INSTRUCTIONS.md)
 🕷️ SPydeRR: The Spider-Themed Voice-Controlled Robot (Beginner-Friendly Guide)
 Link to the robot: ACEBOTT ESP8266 Quadruped Bionic Spider Robot
 
