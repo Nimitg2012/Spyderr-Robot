@@ -1,4 +1,4 @@
-📖 [Read Full Instructions](INSTRUCTIONS.md)
+📖 [Read Full Instructions](go to wiki and then click on instructions to deeply understand)
 
 # SPydeRR Robot 🕷️
 
